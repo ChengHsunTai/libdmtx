@@ -99,3 +99,12 @@ make check
 ```
 ![image](https://github.com/ChengHsunTai/libdmtx/assets/137912642/01a2c139-9dd0-4511-98ca-760e0ae14beb)
 
+確認是否可以執行，試執行測試檔案。
+
+以下以simple_test 作為範例:
+```
+./simple_test/simple_test
+```
+![image](https://github.com/ChengHsunTai/libdmtx/assets/137912642/f648e1a2-3621-4d35-932d-620c9b09c7c6)
+
+
